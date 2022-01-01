@@ -13,7 +13,7 @@ A 2 embed leave message template with cool emojis
 
 ### Showcase
 
-![showcase](showcase.png 'Showcase')
+![showcase](assets/2embeds.png 'Showcase')
 
 ### Template
 
