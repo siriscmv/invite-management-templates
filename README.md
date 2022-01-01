@@ -4,11 +4,11 @@ Collection of templates for join &amp; leave messages
 
 ## Using templates
 
-- Navigate to the `join-templates` or `leave-templates` folder
+- Navigate to the `join-templates` or the `leave-templates` folder
 - Choose a template
-- Copy the contents of `template.json`
-- Paste it in the JSON Editor field of one of the below embed builders and send the template using a webhook
-- Alternatively, if the template has a `template.txt` file, you can copy its contents and paste it directly in your server
+- Copy the Contents under `Template` heading
+- If its a plain text template, simply paste it directly in your server and the use it
+- Otherwise, paste it in the JSON Editor field of one of the below embed builders and send the template using a webhook
 
 ## Contributing
 
