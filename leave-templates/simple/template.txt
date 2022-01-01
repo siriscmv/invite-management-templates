@@ -1,3 +1,0 @@
-✛ `${user_tag}` just left the server :(
-✛ They were invited by `${inviter_tag}` (`${inviter_invites_total}`)
-✛ `${guild_name}` now has `${guild_membercount}` members"
