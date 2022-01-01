@@ -9,6 +9,7 @@ Collection of templates for join &amp; leave messages
 - Copy the Contents under `Template` heading
 - If it is a `Text template`, simply paste it directly in your server and the use it
 - If it is a `JSON template`, paste it in the JSON Editor field of one of the below embed builders and send the template using a webhook
+- Use this [command](https://siris.gitbook.io/invite-management/commands/config#set-as-template) to setup join/leave messages
 
 ## Contributing
 
