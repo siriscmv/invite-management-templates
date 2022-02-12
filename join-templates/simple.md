@@ -16,11 +16,4 @@ None
 
 ### Template
 
-Text template
-
-```
-✛ Welcome `${user_tag}` !
-✛ Created **${user_created_date}**
-✛ They were invited by `${inviter_tag}` (`${inviter_invites_total}`)
-✛ `${guild_name}` now has `${guild_membercount}` members
-```
+Download [this](assets/2embeds.json) JSON and follow the instructions in the README

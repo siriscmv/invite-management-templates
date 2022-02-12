@@ -16,10 +16,6 @@ None
 
 ### Template
 
-Text template
+Download [this](assets/simple.json) JSON and follow the instructions in the README
 
-```
-✛ `${user_tag}` just left the server :(
-✛ They were invited by `${inviter_tag}` (`${inviter_invites_total}`)
-✛ `${guild_name}` now has `${guild_membercount}` members"
 ```
