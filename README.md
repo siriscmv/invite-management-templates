@@ -13,8 +13,3 @@ Collection of templates for join &amp; leave messages
 ## Contributing
 
 - If you wish to cotribute a template, you can do so by opening a PR
-
-### Useful websites for building and sending templates
-
-- https://discord.club/ (Recommended)
-- https://discohook.org/

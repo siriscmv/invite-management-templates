@@ -18,5 +18,3 @@ A 2 embed join message template with cool emojis
 ### Template
 
 Download [this](assets/2embeds.json) JSON and follow the instructions in the README
-
-```

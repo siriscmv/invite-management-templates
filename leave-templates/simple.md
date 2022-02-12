@@ -17,5 +17,3 @@ None
 ### Template
 
 Download [this](assets/simple.json) JSON and follow the instructions in the README
-
-```
