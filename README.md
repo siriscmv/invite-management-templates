@@ -12,7 +12,7 @@ Collection of templates for join &amp; leave messages
 
 ## Example video
 
-[![Using templates and editing them to setup leave messages](https://img.youtube.com/vi/0RIlqgZgRF4/0.jpg)](https://www.youtube.com/watch?v=0RIlqgZgRF4)
+Watch ![this](https://www.youtube.com/watch?v=0RIlqgZgRF4) video for an example of using one of the templates, editing it and seting it up as a leave message
 
 ## Contributing
 
