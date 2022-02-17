@@ -16,6 +16,6 @@ A 1 embed join message template with cool emojis
 
 ![showcase](assets/1embed.png 'Showcase')
 
-### Template
+### Usage
 
 Download [this](assets/1embed.json) JSON and follow the instructions in the README

@@ -15,6 +15,6 @@ A 2 embed leave message template with cool emojis
 
 ![showcase](assets/2embeds.png 'Showcase')
 
-### Template
+### Usage
 
 Download [this](assets/2embeds.json) JSON and follow the instructions in the README

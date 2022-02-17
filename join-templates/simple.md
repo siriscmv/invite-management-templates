@@ -14,6 +14,6 @@ None
 
 ![showcase](assets/simple.png 'Showcase')
 
-### Template
+### Usage
 
-Download [this](assets/2embeds.json) JSON and follow the instructions in the README
+Download [this](assets/simple.json) JSON and follow the instructions in the README
