@@ -1,3 +1,4 @@
 {
-	"content": "✛ Welcome `${user_tag}` !\n✛ Created **${user_created_date}**\n✛ They were invited by `${inviter_tag}` (`${inviter_invites_total}`)\n✛ `${guild_name}` now has `${guild_membercount}` members"
+	"content": "✛ Welcome `${user_tag}` !\n✛ Created **${user_created_date}**\n✛ They were invited by `${inviter_tag}` (`${inviter_invites_total}`)\n✛ `${guild_name}` now has `${guild_membercount}` members",
+	"embeds": []
 }
